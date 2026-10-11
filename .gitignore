@@ -1,0 +1,11 @@
+# Kalau nanti pakai clasp buat sync ke Apps Script
+.clasp.json
+.clasprc.json
+
+# Environment/secrets (jaga-jaga, meski token kita simpan di Script Properties bukan file)
+.env
+*.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
